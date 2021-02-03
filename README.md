@@ -10,4 +10,4 @@ Alexa is a AI Bot which can perform various tasks for you
 6. to open Google, Gitub , Youtube Webpage.
 7. to play Music ( first song in your playlist will be played)
 
-# you want you can add more features as per your convinience...!
+ you can add more features as per your convinience...!
