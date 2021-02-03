@@ -9,5 +9,6 @@ Alexa is a AI Bot which can perform various tasks for you
 5. to search Wikipedia.
 6. to open Google, Gitub , Youtube Webpage.
 7. to play Music ( first song in your playlist will be played)
+8. say By to exit.
 
  you can add more features as per your convinience...!
